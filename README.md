@@ -2,6 +2,8 @@
 
 A professional, offline-capable sign-in system designed for clubs, classrooms, and events. This application runs directly in your web browser with no installation required.
 
+[![Kiosk Visualization](https://img.youtube.com/vi/rki8POKA9rs/0.jpg)](https://youtu.be/rki8POKA9rs)
+
 ---
 
 ## 1. How to Download and Utilize
